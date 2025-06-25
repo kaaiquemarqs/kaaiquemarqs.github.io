@@ -10,11 +10,11 @@ body {
     padding: 0;
     background-color: #e8f6f9;
     color: #003d5b;
-    /* --- INÍCIO DA ALTERAÇÃO PARA RODAPÉ FIXO --- */
+
     display: flex; /* Transforma o body em um container flexível */
     flex-direction: column; /* Organiza os filhos (header, main, footer) em coluna */
     min-height: 100vh; /* Garante que o body ocupe no mínimo 100% da altura da viewport */
-    /* --- FIM DA ALTERAÇÃO PARA RODAPÉ FIXO --- */
+
 }
 
 /* Estilo para o header do site */
